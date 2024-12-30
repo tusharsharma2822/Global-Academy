@@ -18,7 +18,7 @@ const TeacherSignUp = () => {
           <input className='bg-[#eeeeee] mb-6 rounded px-4 py-2 border w-full text-lg placeholder:text-sm' type='password' placeholder='password' required />
           <button className='bg-[#111] text-white font-semibold mb-3 rounded px-4 py-2 w-full text-lg placeholder:text-sm'>Signup</button>
         </form>
-        <p className='text-center'>Already have an Account?<Link to='/teacher-login' className='text-blue-600'>Login Here</Link></p>
+        <p className='text-center'>Already a Teacher here?<Link to='/teacher-login' className='text-blue-600'>Login Here</Link></p>
       </div>
       <div>
         <p className='text-[10px] leading-tight mb-6'>By proceeding, you consent to get calls, whatsapp or SMS messages, including by automated means, from Global Academy and its affliates to the number provided</p>
