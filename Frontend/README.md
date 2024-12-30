@@ -34,4 +34,3 @@ To get started with the project, follow these steps:
    ```bash
    npm start
    ```
-   
