@@ -34,3 +34,10 @@ To get started with the project, follow these steps:
    ```bash
    npm start
    ```
+![1](https://github.com/user-attachments/assets/e4b9ed85-3c98-48b5-b652-73f278b1f149)
+![2](https://github.com/user-attachments/assets/2eafdc39-1e69-438c-b93c-3f006b9654f0)
+![3](https://github.com/user-attachments/assets/6092b4bd-2b2a-4844-b7e2-4034bf9acb3c)
+![4](https://github.com/user-attachments/assets/19fcd793-1838-46c4-99a0-afa34ab6d757)
+![5](https://github.com/user-attachments/assets/ec7ec3a0-2f45-48f1-bdc6-a10b2bfa02ff)
+
+
