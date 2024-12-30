@@ -1,8 +1,36 @@
-# React + Vite
+# Global Academy Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+Global Academy Frontend is a web application designed to facilitate the interaction between students and teachers. It provides a seamless platform for students to register, log in, and access educational resources, while also allowing teachers to manage their accounts and interact with students.
 
-Currently, two official plugins are available:
+## Features
+- **Home**: The landing page of the project, showcasing its purpose and features.
+- **Student Login**: A page where students can log in to their accounts.
+- **Student Signup**: A page for new students to register.
+- **Teacher Login**: A page where teachers can log in to their accounts.
+- **Teacher Signup**: A page for new teachers to register.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation
+To get started with the project, follow these steps:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/global-academy-frontend.git
+   cd global-academy-frontend
+   ```
+
+2. **Install dependencies**:
+   ```bash
+   npm install
+   ```
+
+3. **Set environment variables**:
+   Create a `.env` file in the root directory of the project and add the following line:
+   ```bash
+   REACT_APP_API_URL=http://yourapiurl.com
+   ```
+
+4. **Start the application**:
+   ```bash
+   npm start
+   ```
